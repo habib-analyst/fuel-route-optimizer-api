@@ -1,0 +1,4 @@
+Django==6.1.2
+requests==2.31.0
+numpy==2.5.4
+scipy==1.18.1
